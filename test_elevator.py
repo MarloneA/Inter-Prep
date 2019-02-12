@@ -1,5 +1,5 @@
 import unittest
-
+from elevator import elevator
 class Testelevator(unittest.TestCase):
 
   def test_invalid(self):
